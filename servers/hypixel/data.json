@@ -1,0 +1,21 @@
+{
+  "name": "Hypixel",
+  "website": "https://hypixel.net",
+  "store": "https://store.hypixel.net",
+  "address": [
+      "mc.hypixel.net" // Primary
+      "hypixel.net"
+  ],
+  "versions": [
+      "1.8.*", // Primary
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+  ],
+  "regions": [
+      "NA" // Primary
+  ]
+}
