@@ -1,0 +1,19 @@
+{
+  "name": "2b2t",
+  "website": "https://shop.2b2t.org/",
+  "store": "https://shop.2b2t.org/",
+  "address": [
+      "2b2t.org"
+  ],
+  "versions": [
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+  ],
+  "regions": [
+      "EU"
+  ]
+}
