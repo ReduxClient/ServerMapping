@@ -1,4 +1,4 @@
-To change or add server data, you must locate or create a folder with the server name in all lower cases then put a logo.png and data.json in it.
+To change or add server data, you must locate or create a folder with the server name in all lower cases then put data.json in it.
 By reading the example below, you can create a pull request in this repository, and we will promptly review it.
 
 The data.json folder contains all the data a Server needs for Redux Client.

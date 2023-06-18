@@ -1,0 +1,17 @@
+{
+    "name": "CubeCraft",
+    "website": "https://cubecraft.net",
+    "store": "https://store.cubecraft.net",
+    "address": [
+        "play.cubecraft.net",
+        "cubecraft.net"
+    ],
+    "versions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "regions": [
+        "NA"
+    ]
+  }
+  

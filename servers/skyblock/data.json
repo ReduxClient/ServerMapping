@@ -1,0 +1,21 @@
+{
+    "name": "Skyblock",
+    "website": "https://skyblock.net",
+    "store": "https://shop.skyblock.net",
+    "address": [
+        "skyblock.net"
+    ],
+    "versions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "regions": [
+        "NA"
+    ]
+  }
+  
