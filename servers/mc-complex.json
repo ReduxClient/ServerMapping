@@ -1,0 +1,15 @@
+{
+    "name": "mc-complex",
+    "website": "https://www.mc-complex.com/",
+    "store": "https://store.mc-complex.com/",
+    "address": [
+        "mp.mc-complex.com"
+    ],
+    "versions": [
+        "*"
+    ],
+    "regions": [
+        "NA"
+    ]
+  }
+  
