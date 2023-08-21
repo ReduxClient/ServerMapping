@@ -1,0 +1,15 @@
+{
+    "name": "minehut",
+    "website": "https://www.minehut.com/",
+    "store": "https://minehut.com/shop/",
+    "address": [
+        "minehut.com"
+    ],
+    "versions": [
+        "*"
+    ],
+    "regions": [
+        "NA"
+    ]
+  }
+  
